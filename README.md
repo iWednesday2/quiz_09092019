@@ -1,4 +1,4 @@
-#Aplikasi Kalkulator Bangun Datar dan Bangun Ruang
+Aplikasi Kalkulator Bangun Datar dan Bangun Ruang
 
 Aplikasi Kalkulator Bangun Datar dan Bangun Ruang v1.0 by wed(Nicolas Neville/XTKJ1)
 Digunakan untuk menghitung luas persegi, segitiga, dan lingkaran (Untuk Bangun Datar)
